@@ -4,19 +4,19 @@
 Project implemented by: 
 
 
-Name:
+Name:Adlin R Shogina
 
 
-ID:
+ID:au960221104008
 
 
-College name:
+College name:Arunachala College of Engineering for Women
 
 
 Login credentials: 
 
-username: root
+username: student
 
 
-Password: root
+Password: 12345
 
